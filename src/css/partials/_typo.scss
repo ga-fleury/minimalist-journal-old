@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "BW Modelica";
+  src: url("../fonts/BwModelica-Regular.otf") format("otf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "BW Modelica";
+  src: url("../fonts/BwModelica-Bold.otf") format("otf");
+  font-weight: bold;
+}
+
+%text-item {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
